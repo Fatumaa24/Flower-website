@@ -1,0 +1,36 @@
+body {
+    background-color: lightpink;
+    padding: 30px;
+    margin: 50px;
+}
+
+h1 {
+
+    text-align: center;
+
+}
+
+h3 {
+
+    font-size: medium;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: floralwhite;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    min-width: 50%;
+    width: auto;
+    height: auto;
+    margin-left: 25%;
+
+}
+
+div {
+
+    margin-bottom: 2%;
+
+
+}
